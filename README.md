@@ -38,9 +38,9 @@ Features from list:
 - Terrain generation [10%]
 - Non geometric primitives (bitmaps for GUI) [10 %]
 - Our Own ideas:
-	o Mini-map
-	o Boid camera POV
-	o Double buffering (Improve performance)
+	- Mini-map
+	- Boid camera POV
+	- Double buffering (Improve performance)
 
 To compile:
 - used regular make file.
