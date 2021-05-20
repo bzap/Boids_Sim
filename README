@@ -1,5 +1,11 @@
 Animal flocking model (Boid Simulation)
 
+![logo]
+
+[logo]: https://github.com/bzap/3GC3---Boids-/blob/master/sample.png "Demo of simulation"
+
+
+
 For our final project we have decided to create a program that graphically simulates the flocking behaviour of bird like animals in an open environment. This flocking behaviour is achieved by programming each Boid, an individual bird/animal, to react to its environment based on its position and velocity relative to its neighbouring Boids. This can be done by each Boid abiding by the following 3 simple steering behaviours:
 
 1. Separation: Steer to avoid crowding local flock mates
@@ -43,3 +49,7 @@ Group members:
 -Ravi Patel
 -Jan Ollers
 -Linas Aleknevicius
+
+
+
+
